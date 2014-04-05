@@ -28,5 +28,51 @@
             "xSpeed": 1,
             "ySpeed": -1
         }
+    },
+    {
+        "id": 2,
+        "popsToWin": 3,
+        "dots": [
+            {
+                "id": 1,
+                "type": 0,
+                "xPercentage": 35,
+                "yPercentage": 32,
+                "xSpeed": 1,
+                "ySpeed": 1
+            },
+            {
+                "id": 2,
+                "type": 0,
+                "xPercentage": 10,
+                "yPercentage": 60,
+                "xSpeed": -1,
+                "ySpeed": -1
+            },
+            {
+                "id": 3,
+                "type": 0,
+                "xPercentage": 45,
+                "yPercentage": 40,
+                "xSpeed": 1,
+                "ySpeed": -1
+            },
+            {
+                "id": 4,
+                "type": 0,
+                "xPercentage": 60,
+                "yPercentage": 30,
+                "xSpeed": 1,
+                "ySpeed": 1
+            }
+        ],
+        "startDot": {
+            "id": 0,
+            "type": 0,
+            "xPercentage": 0,
+            "yPercentage": 0,
+            "xSpeed": 0,
+            "ySpeed": 0
+        }
     }
 ]
