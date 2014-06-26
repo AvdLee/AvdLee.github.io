@@ -1,0 +1,72 @@
+[
+ {
+ "id": 0,
+ "levels": [
+            {
+            "id": 1,
+            "popsToWin": 2,
+            "dots": [
+                     {
+                     "id": 1,
+                     "type": 0,
+                     "xPercentage": 20,
+                     "yPercentage": 20,
+                     "xSpeed": 1,
+                     "ySpeed": 1
+                     },
+                     {
+                     "id": 2,
+                     "type": 0,
+                     "xPercentage": 40,
+                     "yPercentage": 80,
+                     "xSpeed": -1,
+                     "ySpeed": -1
+                     }
+                     ],
+            "startDot": {
+            "id": 0,
+            "type": 0,
+            "xPercentage": 20,
+            "yPercentage": 20,
+            "xSpeed": 1,
+            "ySpeed": -1
+            }
+            }
+            ]
+ },
+ {
+ "id": 0,
+ "levels": [
+            {
+            "id": 1,
+            "popsToWin": 2,
+            "dots": [
+                     {
+                     "id": 1,
+                     "type": 0,
+                     "xPercentage": 20,
+                     "yPercentage": 20,
+                     "xSpeed": 1,
+                     "ySpeed": 1
+                     },
+                     {
+                     "id": 2,
+                     "type": 0,
+                     "xPercentage": 40,
+                     "yPercentage": 80,
+                     "xSpeed": -1,
+                     "ySpeed": -1
+                     }
+                     ],
+            "startDot": {
+            "id": 0,
+            "type": 0,
+            "xPercentage": 20,
+            "yPercentage": 20,
+            "xSpeed": 1,
+            "ySpeed": -1
+            }
+            }
+            ]
+ }
+ ]
