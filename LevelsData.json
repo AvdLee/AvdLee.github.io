@@ -1,1260 +1,1114 @@
-[
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 1,
-        "popsToWin": 2,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 9,
-                "ySpeed": -0.59,
-                "yPercentage": 61,
-                "xSpeed": -0.87
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 44,
-                "ySpeed": -0.77,
-                "yPercentage": 75,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 23,
-                "ySpeed": -0.27,
-                "yPercentage": 40,
-                "xSpeed": -0.98
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 86,
-                "ySpeed": -0.78,
-                "yPercentage": 28,
-                "xSpeed": -0.67
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 71,
-                "ySpeed": 0.91,
-                "yPercentage": 60,
-                "xSpeed": -0.41
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 82,
-                "ySpeed": 0.38,
-                "yPercentage": 20,
-                "xSpeed": -0.82
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 2,
-        "popsToWin": 3,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 43,
-                "ySpeed": -0.62,
-                "yPercentage": 69,
-                "xSpeed": -0.28
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 49,
-                "ySpeed": -0.38,
-                "yPercentage": 49,
-                "xSpeed": -0.99
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 74,
-                "ySpeed": -0.46,
-                "yPercentage": 83,
-                "xSpeed": -0.99
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 44,
-                "ySpeed": -0.34,
-                "yPercentage": 60,
-                "xSpeed": -0.62
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 87,
-                "ySpeed": -0.7,
-                "yPercentage": 61,
-                "xSpeed": -0.43
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 59,
-                "ySpeed": -0.77,
-                "yPercentage": 23,
-                "xSpeed": -0.44
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 39,
-                "ySpeed": -0.52,
-                "yPercentage": 8,
-                "xSpeed": -0.65
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 31,
-                "ySpeed": -0.85,
-                "yPercentage": 80,
-                "xSpeed": -0.53
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 9,
-                "ySpeed": -0.68,
-                "yPercentage": 89,
-                "xSpeed": -0.61
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 26,
-                "ySpeed": 0.58,
-                "yPercentage": 17,
-                "xSpeed": 0.44
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 3,
-        "popsToWin": 4,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 70,
-                "ySpeed": -0.51,
-                "yPercentage": 92,
-                "xSpeed": -0.23
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 20,
-                "ySpeed": 0.53,
-                "yPercentage": 56,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 58,
-                "ySpeed": -0.81,
-                "yPercentage": 25,
-                "xSpeed": -0.36
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 52,
-                "ySpeed": -0.87,
-                "yPercentage": 30,
-                "xSpeed": -0.54
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 73,
-                "ySpeed": -0.91,
-                "yPercentage": 60,
-                "xSpeed": -0.32
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 42,
-                "ySpeed": 0.22,
-                "yPercentage": 38,
-                "xSpeed": -0.53
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 84,
-                "ySpeed": -0.75,
-                "yPercentage": 9,
-                "xSpeed": -0.6
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 19,
-                "ySpeed": -0.71,
-                "yPercentage": 26,
-                "xSpeed": -0.72
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 72,
-                "ySpeed": -0.86,
-                "yPercentage": 53,
-                "xSpeed": 0.66
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 23,
-                "ySpeed": -0.84,
-                "yPercentage": 86,
-                "xSpeed": -0.6
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 4,
-        "popsToWin": 5,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 79,
-                "ySpeed": -0.83,
-                "yPercentage": 27,
-                "xSpeed": -0.77
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 40,
-                "ySpeed": -0.78,
-                "yPercentage": 48,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 12,
-                "ySpeed": 0.74,
-                "yPercentage": 26,
-                "xSpeed": -0.34
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 32,
-                "ySpeed": -0.68,
-                "yPercentage": 24,
-                "xSpeed": 0.66
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 39,
-                "ySpeed": -0.48,
-                "yPercentage": 7,
-                "xSpeed": -0.5
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 46,
-                "ySpeed": -0.23,
-                "yPercentage": 70,
-                "xSpeed": -0.2
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 61,
-                "ySpeed": -0.86,
-                "yPercentage": 77,
-                "xSpeed": -0.68
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 27,
-                "ySpeed": 0.57,
-                "yPercentage": 56,
-                "xSpeed": -0.28
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 27,
-                "ySpeed": -0.84,
-                "yPercentage": 78,
-                "xSpeed": -0.92
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 59,
-                "ySpeed": -0.73,
-                "yPercentage": 37,
-                "xSpeed": -0.78
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 12,
-                "ySpeed": -0.79,
-                "yPercentage": 35,
-                "xSpeed": -0.33
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 64,
-                "ySpeed": -0.36,
-                "yPercentage": 23,
-                "xSpeed": 0.35
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 40,
-                "ySpeed": -0.44,
-                "yPercentage": 26,
-                "xSpeed": -0.73
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 82,
-                "ySpeed": 0.76,
-                "yPercentage": 75,
-                "xSpeed": 0.87
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 71,
-                "ySpeed": 0.8,
-                "yPercentage": 22,
-                "xSpeed": -0.41
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 5,
-        "popsToWin": 6,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 33,
-                "ySpeed": -0.2,
-                "yPercentage": 71,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 82,
-                "ySpeed": -0.36,
-                "yPercentage": 14,
-                "xSpeed": -0.96
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 32,
-                "ySpeed": -0.29,
-                "yPercentage": 85,
-                "xSpeed": -0.67
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 51,
-                "ySpeed": -0.59,
-                "yPercentage": 81,
-                "xSpeed": 0.9
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 72,
-                "ySpeed": -0.4,
-                "yPercentage": 93,
-                "xSpeed": -0.37
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 7,
-                "ySpeed": 0.8,
-                "yPercentage": 6,
-                "xSpeed": -0.65
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 84,
-                "ySpeed": -0.98,
-                "yPercentage": 43,
-                "xSpeed": -0.85
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 30,
-                "ySpeed": -0.54,
-                "yPercentage": 31,
-                "xSpeed": 0.35
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 52,
-                "ySpeed": -0.99,
-                "yPercentage": 41,
-                "xSpeed": -0.6
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 63,
-                "ySpeed": -0.57,
-                "yPercentage": 81,
-                "xSpeed": -0.67
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 47,
-                "ySpeed": -0.66,
-                "yPercentage": 87,
-                "xSpeed": -0.37
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 65,
-                "ySpeed": -0.71,
-                "yPercentage": 90,
-                "xSpeed": -0.78
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 72,
-                "ySpeed": -0.86,
-                "yPercentage": 6,
-                "xSpeed": 0.94
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 70,
-                "ySpeed": -0.59,
-                "yPercentage": 82,
-                "xSpeed": -0.75
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 47,
-                "ySpeed": -0.94,
-                "yPercentage": 52,
-                "xSpeed": -0.21
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 6,
-        "popsToWin": 8,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 49,
-                "ySpeed": -0.69,
-                "yPercentage": 54,
-                "xSpeed": 0.65
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 77,
-                "ySpeed": 0.36,
-                "yPercentage": 7,
-                "xSpeed": 0.82
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 22,
-                "ySpeed": -0.54,
-                "yPercentage": 88,
-                "xSpeed": -0.51
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 67,
-                "ySpeed": -0.73,
-                "yPercentage": 32,
-                "xSpeed": -0.41
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 50,
-                "ySpeed": -0.78,
-                "yPercentage": 25,
-                "xSpeed": -0.74
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 90,
-                "ySpeed": -0.32,
-                "yPercentage": 29,
-                "xSpeed": 0.85
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 43,
-                "ySpeed": 0.75,
-                "yPercentage": 86,
-                "xSpeed": -0.38
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 92,
-                "ySpeed": -0.27,
-                "yPercentage": 19,
-                "xSpeed": 0.52
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 29,
-                "ySpeed": -0.84,
-                "yPercentage": 28,
-                "xSpeed": 0.48
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 93,
-                "ySpeed": -0.89,
-                "yPercentage": 21,
-                "xSpeed": -0.9
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 59,
-                "ySpeed": -0.61,
-                "yPercentage": 52,
-                "xSpeed": 0.27
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 35,
-                "ySpeed": -0.36,
-                "yPercentage": 70,
-                "xSpeed": -0.92
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 9,
-                "ySpeed": -0.48,
-                "yPercentage": 65,
-                "xSpeed": -0.6
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 85,
-                "ySpeed": 0.39,
-                "yPercentage": 41,
-                "xSpeed": -0.46
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 80,
-                "ySpeed": 0.24,
-                "yPercentage": 62,
-                "xSpeed": 0.6
-            },
-            {
-                "type": 0,
-                "id": 16,
-                "xPercentage": 72,
-                "ySpeed": -0.61,
-                "yPercentage": 44,
-                "xSpeed": -0.83
-            },
-            {
-                "type": 0,
-                "id": 17,
-                "xPercentage": 13,
-                "ySpeed": 0.28,
-                "yPercentage": 26,
-                "xSpeed": -0.64
-            },
-            {
-                "type": 0,
-                "id": 18,
-                "xPercentage": 94,
-                "ySpeed": -0.89,
-                "yPercentage": 45,
-                "xSpeed": -0.98
-            },
-            {
-                "type": 0,
-                "id": 19,
-                "xPercentage": 42,
-                "ySpeed": -0.99,
-                "yPercentage": 82,
-                "xSpeed": -0.53
-            },
-            {
-                "type": 0,
-                "id": 20,
-                "xPercentage": 66,
-                "ySpeed": -0.33,
-                "yPercentage": 28,
-                "xSpeed": -0.85
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 7,
-        "popsToWin": 9,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 50,
-                "ySpeed": -0.51,
-                "yPercentage": 62,
-                "xSpeed": -0.56
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 6,
-                "ySpeed": -0.61,
-                "yPercentage": 90,
-                "xSpeed": -0.36
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 23,
-                "ySpeed": -0.9,
-                "yPercentage": 44,
-                "xSpeed": -0.63
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 34,
-                "ySpeed": -0.97,
-                "yPercentage": 33,
-                "xSpeed": -0.66
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 69,
-                "ySpeed": 0.31,
-                "yPercentage": 54,
-                "xSpeed": -0.7
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 68,
-                "ySpeed": 0.43,
-                "yPercentage": 94,
-                "xSpeed": 0.65
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 30,
-                "ySpeed": -0.86,
-                "yPercentage": 91,
-                "xSpeed": -0.38
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 24,
-                "ySpeed": -0.42,
-                "yPercentage": 74,
-                "xSpeed": -0.25
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 76,
-                "ySpeed": -0.62,
-                "yPercentage": 30,
-                "xSpeed": -0.54
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 23,
-                "ySpeed": -0.46,
-                "yPercentage": 57,
-                "xSpeed": -0.37
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 47,
-                "ySpeed": 0.72,
-                "yPercentage": 39,
-                "xSpeed": 0.88
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 82,
-                "ySpeed": -0.65,
-                "yPercentage": 62,
-                "xSpeed": -0.83
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 36,
-                "ySpeed": 0.75,
-                "yPercentage": 70,
-                "xSpeed": -0.45
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 30,
-                "ySpeed": 0.82,
-                "yPercentage": 29,
-                "xSpeed": -0.32
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 43,
-                "ySpeed": -0.69,
-                "yPercentage": 63,
-                "xSpeed": -0.82
-            },
-            {
-                "type": 0,
-                "id": 16,
-                "xPercentage": 86,
-                "ySpeed": -0.78,
-                "yPercentage": 34,
-                "xSpeed": -0.61
-            },
-            {
-                "type": 0,
-                "id": 17,
-                "xPercentage": 78,
-                "ySpeed": -0.2,
-                "yPercentage": 14,
-                "xSpeed": -0.48
-            },
-            {
-                "type": 0,
-                "id": 18,
-                "xPercentage": 93,
-                "ySpeed": -0.6,
-                "yPercentage": 47,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 19,
-                "xPercentage": 67,
-                "ySpeed": -0.81,
-                "yPercentage": 9,
-                "xSpeed": -0.28
-            },
-            {
-                "type": 0,
-                "id": 20,
-                "xPercentage": 31,
-                "ySpeed": -0.81,
-                "yPercentage": 30,
-                "xSpeed": -0.57
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 8,
-        "popsToWin": 10,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 26,
-                "ySpeed": -0.7,
-                "yPercentage": 14,
-                "xSpeed": -0.5
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 17,
-                "ySpeed": -0.47,
-                "yPercentage": 61,
-                "xSpeed": 0.26
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 19,
-                "ySpeed": -0.49,
-                "yPercentage": 30,
-                "xSpeed": -0.4
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 45,
-                "ySpeed": -0.9,
-                "yPercentage": 47,
-                "xSpeed": -0.34
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 13,
-                "ySpeed": 0.6,
-                "yPercentage": 6,
-                "xSpeed": -0.51
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 46,
-                "ySpeed": -0.82,
-                "yPercentage": 54,
-                "xSpeed": -0.41
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 24,
-                "ySpeed": 0.49,
-                "yPercentage": 53,
-                "xSpeed": -0.48
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 13,
-                "ySpeed": -0.49,
-                "yPercentage": 33,
-                "xSpeed": -0.35
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 29,
-                "ySpeed": 0.88,
-                "yPercentage": 11,
-                "xSpeed": -0.65
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 38,
-                "ySpeed": -0.29,
-                "yPercentage": 21,
-                "xSpeed": -0.99
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 13,
-                "ySpeed": 0.61,
-                "yPercentage": 76,
-                "xSpeed": -0.56
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 87,
-                "ySpeed": -0.77,
-                "yPercentage": 52,
-                "xSpeed": 0.43
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 5,
-                "ySpeed": -0.65,
-                "yPercentage": 83,
-                "xSpeed": -0.95
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 60,
-                "ySpeed": -0.25,
-                "yPercentage": 40,
-                "xSpeed": -0.7
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 49,
-                "ySpeed": -0.83,
-                "yPercentage": 35,
-                "xSpeed": -0.22
-            },
-            {
-                "type": 0,
-                "id": 16,
-                "xPercentage": 63,
-                "ySpeed": -0.81,
-                "yPercentage": 25,
-                "xSpeed": -0.34
-            },
-            {
-                "type": 0,
-                "id": 17,
-                "xPercentage": 94,
-                "ySpeed": -0.67,
-                "yPercentage": 45,
-                "xSpeed": -0.61
-            },
-            {
-                "type": 0,
-                "id": 18,
-                "xPercentage": 94,
-                "ySpeed": -0.76,
-                "yPercentage": 16,
-                "xSpeed": -0.42
-            },
-            {
-                "type": 0,
-                "id": 19,
-                "xPercentage": 9,
-                "ySpeed": -0.88,
-                "yPercentage": 52,
-                "xSpeed": -0.49
-            },
-            {
-                "type": 0,
-                "id": 20,
-                "xPercentage": 23,
-                "ySpeed": 0.22,
-                "yPercentage": 5,
-                "xSpeed": -0.72
-            },
-            {
-                "type": 0,
-                "id": 21,
-                "xPercentage": 16,
-                "ySpeed": 0.7,
-                "yPercentage": 92,
-                "xSpeed": -0.29
-            },
-            {
-                "type": 0,
-                "id": 22,
-                "xPercentage": 29,
-                "ySpeed": -0.89,
-                "yPercentage": 91,
-                "xSpeed": -0.96
-            },
-            {
-                "type": 0,
-                "id": 23,
-                "xPercentage": 85,
-                "ySpeed": -0.76,
-                "yPercentage": 32,
-                "xSpeed": -0.51
-            },
-            {
-                "type": 0,
-                "id": 24,
-                "xPercentage": 92,
-                "ySpeed": -0.38,
-                "yPercentage": 92,
-                "xSpeed": -0.36
-            },
-            {
-                "type": 0,
-                "id": 25,
-                "xPercentage": 62,
-                "ySpeed": -0.45,
-                "yPercentage": 84,
-                "xSpeed": 0.55
-            }
-        ]
-    },
-    {
-        "startDot": {
-            "id": 0,
-            "type": 0
-        },
-        "id": 9,
-        "popsToWin": 11,
-        "dots": [
-            {
-                "type": 0,
-                "id": 1,
-                "xPercentage": 5,
-                "ySpeed": -0.63,
-                "yPercentage": 40,
-                "xSpeed": -0.86
-            },
-            {
-                "type": 0,
-                "id": 2,
-                "xPercentage": 82,
-                "ySpeed": -0.38,
-                "yPercentage": 44,
-                "xSpeed": -0.58
-            },
-            {
-                "type": 0,
-                "id": 3,
-                "xPercentage": 48,
-                "ySpeed": -0.75,
-                "yPercentage": 53,
-                "xSpeed": -0.35
-            },
-            {
-                "type": 0,
-                "id": 4,
-                "xPercentage": 17,
-                "ySpeed": -0.39,
-                "yPercentage": 80,
-                "xSpeed": 0.74
-            },
-            {
-                "type": 0,
-                "id": 5,
-                "xPercentage": 21,
-                "ySpeed": -0.46,
-                "yPercentage": 81,
-                "xSpeed": -0.95
-            },
-            {
-                "type": 0,
-                "id": 6,
-                "xPercentage": 23,
-                "ySpeed": 0.8,
-                "yPercentage": 47,
-                "xSpeed": -0.44
-            },
-            {
-                "type": 0,
-                "id": 7,
-                "xPercentage": 58,
-                "ySpeed": -0.24,
-                "yPercentage": 65,
-                "xSpeed": -0.42
-            },
-            {
-                "type": 0,
-                "id": 8,
-                "xPercentage": 49,
-                "ySpeed": -0.61,
-                "yPercentage": 16,
-                "xSpeed": -0.21
-            },
-            {
-                "type": 0,
-                "id": 9,
-                "xPercentage": 39,
-                "ySpeed": -0.57,
-                "yPercentage": 31,
-                "xSpeed": -0.23
-            },
-            {
-                "type": 0,
-                "id": 10,
-                "xPercentage": 65,
-                "ySpeed": -0.67,
-                "yPercentage": 38,
-                "xSpeed": -0.63
-            },
-            {
-                "type": 0,
-                "id": 11,
-                "xPercentage": 66,
-                "ySpeed": -0.42,
-                "yPercentage": 17,
-                "xSpeed": -0.92
-            },
-            {
-                "type": 0,
-                "id": 12,
-                "xPercentage": 40,
-                "ySpeed": -0.21,
-                "yPercentage": 44,
-                "xSpeed": 0.86
-            },
-            {
-                "type": 0,
-                "id": 13,
-                "xPercentage": 46,
-                "ySpeed": 0.22,
-                "yPercentage": 74,
-                "xSpeed": -0.29
-            },
-            {
-                "type": 0,
-                "id": 14,
-                "xPercentage": 30,
-                "ySpeed": 0.66,
-                "yPercentage": 21,
-                "xSpeed": -0.77
-            },
-            {
-                "type": 0,
-                "id": 15,
-                "xPercentage": 82,
-                "ySpeed": -0.53,
-                "yPercentage": 83,
-                "xSpeed": -0.89
-            },
-            {
-                "type": 0,
-                "id": 16,
-                "xPercentage": 57,
-                "ySpeed": -0.43,
-                "yPercentage": 13,
-                "xSpeed": -0.74
-            },
-            {
-                "type": 0,
-                "id": 17,
-                "xPercentage": 7,
-                "ySpeed": -0.41,
-                "yPercentage": 46,
-                "xSpeed": -0.63
-            },
-            {
-                "type": 0,
-                "id": 18,
-                "xPercentage": 10,
-                "ySpeed": -0.86,
-                "yPercentage": 43,
-                "xSpeed": -0.28
-            },
-            {
-                "type": 0,
-                "id": 19,
-                "xPercentage": 93,
-                "ySpeed": -0.68,
-                "yPercentage": 36,
-                "xSpeed": -0.38
-            },
-            {
-                "type": 0,
-                "id": 20,
-                "xPercentage": 21,
-                "ySpeed": -0.95,
-                "yPercentage": 22,
-                "xSpeed": -0.64
-            },
-            {
-                "type": 0,
-                "id": 21,
-                "xPercentage": 71,
-                "ySpeed": -0.49,
-                "yPercentage": 88,
-                "xSpeed": -0.5
-            },
-            {
-                "type": 0,
-                "id": 22,
-                "xPercentage": 32,
-                "ySpeed": -0.99,
-                "yPercentage": 36,
-                "xSpeed": 0.23
-            },
-            {
-                "type": 0,
-                "id": 23,
-                "xPercentage": 21,
-                "ySpeed": -0.45,
-                "yPercentage": 49,
-                "xSpeed": -0.76
-            },
-            {
-                "type": 0,
-                "id": 24,
-                "xPercentage": 33,
-                "ySpeed": -0.84,
-                "yPercentage": 54,
-                "xSpeed": -0.88
-            },
-            {
-                "type": 0,
-                "id": 25,
-                "xPercentage": 28,
-                "ySpeed": -0.94,
-                "yPercentage": 72,
-                "xSpeed": -0.27
-            }
-        ]
-    }
-]
+ [
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 1,
+  "popsToWin": 2,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 89,
+           "moveAngle": 252,
+           "yPercentage": 6
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 18,
+           "moveAngle": 54,
+           "yPercentage": 41
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 79,
+           "moveAngle": 284,
+           "yPercentage": 48
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 30,
+           "moveAngle": 227,
+           "yPercentage": 56
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 53,
+           "moveAngle": 199,
+           "yPercentage": 72
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 32,
+           "moveAngle": 128,
+           "yPercentage": 47
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 2,
+  "popsToWin": 3,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 69,
+           "moveAngle": 291,
+           "yPercentage": 47
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 69,
+           "moveAngle": 215,
+           "yPercentage": 16
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 50,
+           "moveAngle": 18,
+           "yPercentage": 93
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 6,
+           "moveAngle": 234,
+           "yPercentage": 39
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 38,
+           "moveAngle": 14,
+           "yPercentage": 22
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 47,
+           "moveAngle": 185,
+           "yPercentage": 60
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 39,
+           "moveAngle": 300,
+           "yPercentage": 70
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 52,
+           "moveAngle": 301,
+           "yPercentage": 87
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 15,
+           "moveAngle": 94,
+           "yPercentage": 49
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 88,
+           "moveAngle": 354,
+           "yPercentage": 34
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 3,
+  "popsToWin": 4,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 8,
+           "moveAngle": 86,
+           "yPercentage": 10
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 61,
+           "moveAngle": 41,
+           "yPercentage": 22
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 55,
+           "moveAngle": 62,
+           "yPercentage": 62
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 80,
+           "moveAngle": 261,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 61,
+           "moveAngle": 348,
+           "yPercentage": 94
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 59,
+           "moveAngle": 81,
+           "yPercentage": 92
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 89,
+           "moveAngle": 186,
+           "yPercentage": 45
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 65,
+           "moveAngle": 6,
+           "yPercentage": 64
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 55,
+           "moveAngle": 41,
+           "yPercentage": 59
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 16,
+           "moveAngle": 172,
+           "yPercentage": 32
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 4,
+  "popsToWin": 5,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 44,
+           "moveAngle": 255,
+           "yPercentage": 34
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 78,
+           "moveAngle": 290,
+           "yPercentage": 36
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 17,
+           "moveAngle": 254,
+           "yPercentage": 93
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 36,
+           "moveAngle": 237,
+           "yPercentage": 85
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 58,
+           "moveAngle": 51,
+           "yPercentage": 73
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 92,
+           "moveAngle": 82,
+           "yPercentage": 39
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 73,
+           "moveAngle": 72,
+           "yPercentage": 7
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 83,
+           "moveAngle": 198,
+           "yPercentage": 68
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 63,
+           "moveAngle": 82,
+           "yPercentage": 59
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 8,
+           "moveAngle": 201,
+           "yPercentage": 9
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 15,
+           "moveAngle": 104,
+           "yPercentage": 87
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 41,
+           "moveAngle": 196,
+           "yPercentage": 51
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 66,
+           "moveAngle": 291,
+           "yPercentage": 21
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 94,
+           "moveAngle": 70,
+           "yPercentage": 47
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 23,
+           "moveAngle": 34,
+           "yPercentage": 27
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 5,
+  "popsToWin": 6,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 41,
+           "moveAngle": 205,
+           "yPercentage": 10
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 41,
+           "moveAngle": 161,
+           "yPercentage": 47
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 45,
+           "moveAngle": 54,
+           "yPercentage": 86
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 14,
+           "moveAngle": 339,
+           "yPercentage": 72
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 65,
+           "moveAngle": 285,
+           "yPercentage": 83
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 26,
+           "moveAngle": 119,
+           "yPercentage": 12
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 76,
+           "moveAngle": 311,
+           "yPercentage": 75
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 9,
+           "moveAngle": 258,
+           "yPercentage": 80
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 14,
+           "moveAngle": 326,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 9,
+           "moveAngle": 315,
+           "yPercentage": 86
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 13,
+           "moveAngle": 138,
+           "yPercentage": 10
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 11,
+           "moveAngle": 293,
+           "yPercentage": 46
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 81,
+           "moveAngle": 108,
+           "yPercentage": 5
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 70,
+           "moveAngle": 307,
+           "yPercentage": 13
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 59,
+           "moveAngle": 339,
+           "yPercentage": 89
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 6,
+  "popsToWin": 8,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 67,
+           "moveAngle": 264,
+           "yPercentage": 67
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 75,
+           "moveAngle": 360,
+           "yPercentage": 27
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 22,
+           "moveAngle": 71,
+           "yPercentage": 40
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 66,
+           "moveAngle": 295,
+           "yPercentage": 47
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 92,
+           "moveAngle": 347,
+           "yPercentage": 85
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 18,
+           "moveAngle": 112,
+           "yPercentage": 69
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 53,
+           "moveAngle": 215,
+           "yPercentage": 65
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 44,
+           "moveAngle": 342,
+           "yPercentage": 28
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 91,
+           "moveAngle": 117,
+           "yPercentage": 46
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 81,
+           "moveAngle": 115,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 21,
+           "moveAngle": 331,
+           "yPercentage": 88
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 66,
+           "moveAngle": 170,
+           "yPercentage": 50
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 73,
+           "moveAngle": 337,
+           "yPercentage": 27
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 18,
+           "moveAngle": 123,
+           "yPercentage": 70
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 22,
+           "moveAngle": 131,
+           "yPercentage": 75
+           },
+           {
+           "type": 0,
+           "id": 16,
+           "xPercentage": 29,
+           "moveAngle": 116,
+           "yPercentage": 80
+           },
+           {
+           "type": 0,
+           "id": 17,
+           "xPercentage": 90,
+           "moveAngle": 230,
+           "yPercentage": 15
+           },
+           {
+           "type": 0,
+           "id": 18,
+           "xPercentage": 50,
+           "moveAngle": 136,
+           "yPercentage": 19
+           },
+           {
+           "type": 0,
+           "id": 19,
+           "xPercentage": 66,
+           "moveAngle": 215,
+           "yPercentage": 72
+           },
+           {
+           "type": 0,
+           "id": 20,
+           "xPercentage": 71,
+           "moveAngle": 290,
+           "yPercentage": 75
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 7,
+  "popsToWin": 9,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 32,
+           "moveAngle": 58,
+           "yPercentage": 59
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 12,
+           "moveAngle": 262,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 91,
+           "moveAngle": 56,
+           "yPercentage": 8
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 31,
+           "moveAngle": 126,
+           "yPercentage": 50
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 66,
+           "moveAngle": 245,
+           "yPercentage": 90
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 39,
+           "moveAngle": 153,
+           "yPercentage": 49
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 62,
+           "moveAngle": 23,
+           "yPercentage": 32
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 47,
+           "moveAngle": 291,
+           "yPercentage": 19
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 77,
+           "moveAngle": 23,
+           "yPercentage": 88
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 29,
+           "moveAngle": 279,
+           "yPercentage": 23
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 19,
+           "moveAngle": 314,
+           "yPercentage": 5
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 45,
+           "moveAngle": 164,
+           "yPercentage": 81
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 33,
+           "moveAngle": 88,
+           "yPercentage": 51
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 91,
+           "moveAngle": 292,
+           "yPercentage": 74
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 75,
+           "moveAngle": 327,
+           "yPercentage": 74
+           },
+           {
+           "type": 0,
+           "id": 16,
+           "xPercentage": 48,
+           "moveAngle": 47,
+           "yPercentage": 7
+           },
+           {
+           "type": 0,
+           "id": 17,
+           "xPercentage": 8,
+           "moveAngle": 254,
+           "yPercentage": 24
+           },
+           {
+           "type": 0,
+           "id": 18,
+           "xPercentage": 90,
+           "moveAngle": 106,
+           "yPercentage": 41
+           },
+           {
+           "type": 0,
+           "id": 19,
+           "xPercentage": 47,
+           "moveAngle": 90,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 20,
+           "xPercentage": 58,
+           "moveAngle": 96,
+           "yPercentage": 21
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 8,
+  "popsToWin": 10,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 87,
+           "moveAngle": 186,
+           "yPercentage": 87
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 91,
+           "moveAngle": 259,
+           "yPercentage": 42
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 37,
+           "moveAngle": 74,
+           "yPercentage": 89
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 75,
+           "moveAngle": 140,
+           "yPercentage": 25
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 84,
+           "moveAngle": 57,
+           "yPercentage": 73
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 80,
+           "moveAngle": 350,
+           "yPercentage": 71
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 8,
+           "moveAngle": 35,
+           "yPercentage": 12
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 8,
+           "moveAngle": 296,
+           "yPercentage": 53
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 76,
+           "moveAngle": 49,
+           "yPercentage": 12
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 80,
+           "moveAngle": 3,
+           "yPercentage": 40
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 67,
+           "moveAngle": 20,
+           "yPercentage": 34
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 59,
+           "moveAngle": 321,
+           "yPercentage": 42
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 69,
+           "moveAngle": 305,
+           "yPercentage": 39
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 75,
+           "moveAngle": 176,
+           "yPercentage": 39
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 59,
+           "moveAngle": 107,
+           "yPercentage": 49
+           },
+           {
+           "type": 0,
+           "id": 16,
+           "xPercentage": 23,
+           "moveAngle": 81,
+           "yPercentage": 38
+           },
+           {
+           "type": 0,
+           "id": 17,
+           "xPercentage": 90,
+           "moveAngle": 254,
+           "yPercentage": 26
+           },
+           {
+           "type": 0,
+           "id": 18,
+           "xPercentage": 86,
+           "moveAngle": 37,
+           "yPercentage": 19
+           },
+           {
+           "type": 0,
+           "id": 19,
+           "xPercentage": 40,
+           "moveAngle": 76,
+           "yPercentage": 51
+           },
+           {
+           "type": 0,
+           "id": 20,
+           "xPercentage": 14,
+           "moveAngle": 289,
+           "yPercentage": 35
+           },
+           {
+           "type": 0,
+           "id": 21,
+           "xPercentage": 50,
+           "moveAngle": 114,
+           "yPercentage": 28
+           },
+           {
+           "type": 0,
+           "id": 22,
+           "xPercentage": 34,
+           "moveAngle": 254,
+           "yPercentage": 48
+           },
+           {
+           "type": 0,
+           "id": 23,
+           "xPercentage": 11,
+           "moveAngle": 44,
+           "yPercentage": 19
+           },
+           {
+           "type": 0,
+           "id": 24,
+           "xPercentage": 56,
+           "moveAngle": 193,
+           "yPercentage": 25
+           },
+           {
+           "type": 0,
+           "id": 25,
+           "xPercentage": 5,
+           "moveAngle": 270,
+           "yPercentage": 51
+           }
+           ]
+  },
+  {
+  "startDot": {
+  "id": 0,
+  "type": 0
+  },
+  "id": 9,
+  "popsToWin": 11,
+  "dots": [
+           {
+           "type": 0,
+           "id": 1,
+           "xPercentage": 13,
+           "moveAngle": 303,
+           "yPercentage": 75
+           },
+           {
+           "type": 0,
+           "id": 2,
+           "xPercentage": 31,
+           "moveAngle": 215,
+           "yPercentage": 84
+           },
+           {
+           "type": 0,
+           "id": 3,
+           "xPercentage": 19,
+           "moveAngle": 79,
+           "yPercentage": 24
+           },
+           {
+           "type": 0,
+           "id": 4,
+           "xPercentage": 65,
+           "moveAngle": 85,
+           "yPercentage": 5
+           },
+           {
+           "type": 0,
+           "id": 5,
+           "xPercentage": 42,
+           "moveAngle": 182,
+           "yPercentage": 52
+           },
+           {
+           "type": 0,
+           "id": 6,
+           "xPercentage": 83,
+           "moveAngle": 148,
+           "yPercentage": 31
+           },
+           {
+           "type": 0,
+           "id": 7,
+           "xPercentage": 18,
+           "moveAngle": 162,
+           "yPercentage": 53
+           },
+           {
+           "type": 0,
+           "id": 8,
+           "xPercentage": 14,
+           "moveAngle": 110,
+           "yPercentage": 6
+           },
+           {
+           "type": 0,
+           "id": 9,
+           "xPercentage": 37,
+           "moveAngle": 346,
+           "yPercentage": 59
+           },
+           {
+           "type": 0,
+           "id": 10,
+           "xPercentage": 27,
+           "moveAngle": 166,
+           "yPercentage": 42
+           },
+           {
+           "type": 0,
+           "id": 11,
+           "xPercentage": 76,
+           "moveAngle": 334,
+           "yPercentage": 17
+           },
+           {
+           "type": 0,
+           "id": 12,
+           "xPercentage": 44,
+           "moveAngle": 138,
+           "yPercentage": 32
+           },
+           {
+           "type": 0,
+           "id": 13,
+           "xPercentage": 26,
+           "moveAngle": 175,
+           "yPercentage": 82
+           },
+           {
+           "type": 0,
+           "id": 14,
+           "xPercentage": 80,
+           "moveAngle": 286,
+           "yPercentage": 47
+           },
+           {
+           "type": 0,
+           "id": 15,
+           "xPercentage": 14,
+           "moveAngle": 248,
+           "yPercentage": 87
+           },
+           {
+           "type": 0,
+           "id": 16,
+           "xPercentage": 80,
+           "moveAngle": 9,
+           "yPercentage": 43
+           },
+           {
+           "type": 0,
+           "id": 17,
+           "xPercentage": 69,
+           "moveAngle": 160,
+           "yPercentage": 66
+           },
+           {
+           "type": 0,
+           "id": 18,
+           "xPercentage": 87,
+           "moveAngle": 237,
+           "yPercentage": 62
+           },
+           {
+           "type": 0,
+           "id": 19,
+           "xPercentage": 17,
+           "moveAngle": 318,
+           "yPercentage": 27
+           },
+           {
+           "type": 0,
+           "id": 20,
+           "xPercentage": 65,
+           "moveAngle": 320,
+           "yPercentage": 91
+           },
+           {
+           "type": 0,
+           "id": 21,
+           "xPercentage": 83,
+           "moveAngle": 245,
+           "yPercentage": 32
+           },
+           {
+           "type": 0,
+           "id": 22,
+           "xPercentage": 86,
+           "moveAngle": 80,
+           "yPercentage": 29
+           },
+           {
+           "type": 0,
+           "id": 23,
+           "xPercentage": 16,
+           "moveAngle": 277,
+           "yPercentage": 37
+           },
+           {
+           "type": 0,
+           "id": 24,
+           "xPercentage": 90,
+           "moveAngle": 59,
+           "yPercentage": 15
+           },
+           {
+           "type": 0,
+           "id": 25,
+           "xPercentage": 78,
+           "moveAngle": 164,
+           "yPercentage": 31
+           }
+           ]
+  }
+  ]
