@@ -2,7 +2,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 1,
         "popsToWin": 2,
@@ -60,7 +61,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 2,
         "popsToWin": 3,
@@ -150,7 +152,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 3,
         "popsToWin": 4,
@@ -240,7 +243,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 4,
         "popsToWin": 5,
@@ -370,7 +374,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 5,
         "popsToWin": 6,
@@ -500,7 +505,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 6,
         "popsToWin": 8,
@@ -670,7 +676,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 7,
         "popsToWin": 9,
@@ -840,7 +847,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 8,
         "popsToWin": 10,
@@ -1050,7 +1058,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 9,
         "popsToWin": 11,
@@ -1260,7 +1269,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 10,
         "popsToWin": 14,
@@ -1470,7 +1480,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 11,
         "popsToWin": 4,
@@ -1528,7 +1539,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 12,
         "popsToWin": 5,
@@ -1602,7 +1614,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 13,
         "popsToWin": 6,
@@ -1692,7 +1705,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 14,
         "popsToWin": 8,
@@ -1798,7 +1812,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 15,
         "popsToWin": 9,
@@ -1920,7 +1935,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 16,
         "popsToWin": 12,
@@ -2058,7 +2074,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 17,
         "popsToWin": 13,
@@ -2212,7 +2229,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 18,
         "popsToWin": 14,
@@ -2382,7 +2400,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 19,
         "popsToWin": 16,
@@ -2568,7 +2587,8 @@
     {
         "startDot": {
             "id": 0,
-            "type": 0
+            "type": 0,
+            "color": 0
         },
         "id": 20,
         "popsToWin": 16,
