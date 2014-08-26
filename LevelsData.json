@@ -2997,7 +2997,7 @@
                 "color": 5,
                 "xPercentage": 50,
                 "moveAngle": 90,
-                "yPercentage": 35
+                "yPercentage": 30
             },
             {
                 "type": 0,
@@ -3037,7 +3037,7 @@
                 "color": 5,
                 "xPercentage": 50,
                 "moveAngle": 270,
-                "yPercentage": 65
+                "yPercentage": 70
             },
             {
                 "type": 0,
