@@ -2793,63 +2793,79 @@
             "type": 0
         },
         "id": 21,
-        "popsToWin": 8,
+        "popsToWin": 9,
         "dots": [
             {
                 "type": 0,
                 "id": 1,
-                "xPercentage": 7,
-                "moveAngle": 244,
-                "yPercentage": 20
+                "color": 1,
+                "xPercentage": 11,
+                "moveAngle": 90,
+                "yPercentage": 11
             },
             {
                 "type": 0,
                 "id": 2,
-                "xPercentage": 34,
-                "moveAngle": 138,
-                "yPercentage": 76
+                "color": 2,
+                "xPercentage": 22,
+                "moveAngle": 90,
+                "yPercentage": 22
             },
             {
                 "type": 0,
                 "id": 3,
-                "xPercentage": 25,
-                "moveAngle": 16,
-                "yPercentage": 42
+                "color": 3,
+                "xPercentage": 33,
+                "moveAngle": 90,
+                "yPercentage": 33
             },
             {
                 "type": 0,
                 "id": 4,
-                "xPercentage": 13,
-                "moveAngle": 152,
-                "yPercentage": 26
+                "color": 4,
+                "xPercentage": 44,
+                "moveAngle": 90,
+                "yPercentage": 44
             },
             {
                 "type": 0,
                 "id": 5,
-                "xPercentage": 25,
-                "moveAngle": 97,
-                "yPercentage": 19
+                "color": 5,
+                "xPercentage": 55,
+                "moveAngle": 90,
+                "yPercentage": 55
             },
             {
                 "type": 0,
                 "id": 6,
-                "xPercentage": 92,
-                "moveAngle": 78,
-                "yPercentage": 67
+                "color": 4,
+                "xPercentage": 66,
+                "moveAngle": 90,
+                "yPercentage": 66
             },
             {
                 "type": 0,
                 "id": 7,
-                "xPercentage": 25,
-                "moveAngle": 356,
-                "yPercentage": 36
+                "color": 3,
+                "xPercentage": 77,
+                "moveAngle": 90,
+                "yPercentage": 77
             },
             {
                 "type": 0,
                 "id": 8,
-                "xPercentage": 74,
-                "moveAngle": 353,
-                "yPercentage": 28
+                "color": 2,
+                "xPercentage": 88,
+                "moveAngle": 90,
+                "yPercentage": 88
+            },
+            {
+                "type": 0,
+                "id": 9,
+                "color": 1,
+                "xPercentage": 99,
+                "moveAngle": 90,
+                "yPercentage": 99
             }
         ]
     },
