@@ -2799,9 +2799,9 @@
                 "type": 0,
                 "id": 1,
                 "color": 1,
-                "xPercentage": 11,
+                "xPercentage": 0,
                 "moveAngle": 90,
-                "yPercentage": 11
+                "yPercentage": 0
             },
             {
                 "type": 0,
@@ -2863,9 +2863,9 @@
                 "type": 0,
                 "id": 9,
                 "color": 1,
-                "xPercentage": 99,
+                "xPercentage": 98,
                 "moveAngle": 90,
-                "yPercentage": 99
+                "yPercentage": 98
             }
         ]
     },
