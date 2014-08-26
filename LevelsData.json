@@ -2964,7 +2964,7 @@
                 "id": 1,
                 "color": 1,
                 "xPercentage": 2,
-                "moveAngle": 45,
+                "moveAngle": 315,
                 "yPercentage": 2
             },
             {
@@ -2972,7 +2972,7 @@
                 "id": 2,
                 "color": 2,
                 "xPercentage": 14,
-                "moveAngle": 45,
+                "moveAngle": 315,
                 "yPercentage": 14
             },
             {
@@ -2980,7 +2980,7 @@
                 "id": 3,
                 "color": 3,
                 "xPercentage": 26,
-                "moveAngle": 45,
+                "moveAngle": 315,
                 "yPercentage": 26
             },
             {
@@ -2988,7 +2988,7 @@
                 "id": 4,
                 "color": 4,
                 "xPercentage": 38,
-                "moveAngle": 45,
+                "moveAngle": 315,
                 "yPercentage": 38
             },
             {
