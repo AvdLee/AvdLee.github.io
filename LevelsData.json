@@ -2786,5 +2786,165 @@
                 "yPercentage": 73
             }
         ]
+    },
+    {
+        "startDot": {
+            "id": 0,
+            "type": 0
+        },
+        "id": 21,
+        "popsToWin": 8,
+        "dots": [
+            {
+                "type": 0,
+                "id": 1,
+                "xPercentage": 7,
+                "moveAngle": 244,
+                "yPercentage": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "xPercentage": 34,
+                "moveAngle": 138,
+                "yPercentage": 76
+            },
+            {
+                "type": 0,
+                "id": 3,
+                "xPercentage": 25,
+                "moveAngle": 16,
+                "yPercentage": 42
+            },
+            {
+                "type": 0,
+                "id": 4,
+                "xPercentage": 13,
+                "moveAngle": 152,
+                "yPercentage": 26
+            },
+            {
+                "type": 0,
+                "id": 5,
+                "xPercentage": 25,
+                "moveAngle": 97,
+                "yPercentage": 19
+            },
+            {
+                "type": 0,
+                "id": 6,
+                "xPercentage": 92,
+                "moveAngle": 78,
+                "yPercentage": 67
+            },
+            {
+                "type": 0,
+                "id": 7,
+                "xPercentage": 25,
+                "moveAngle": 356,
+                "yPercentage": 36
+            },
+            {
+                "type": 0,
+                "id": 8,
+                "xPercentage": 74,
+                "moveAngle": 353,
+                "yPercentage": 28
+            }
+        ]
+    },
+    {
+        "startDot": {
+            "id": 0,
+            "type": 0
+        },
+        "id": 22,
+        "popsToWin": 10,
+        "dots": [
+            {
+                "type": 0,
+                "id": 1,
+                "xPercentage": 45,
+                "moveAngle": 76,
+                "yPercentage": 24
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "xPercentage": 27,
+                "moveAngle": 319,
+                "yPercentage": 29
+            },
+            {
+                "type": 0,
+                "id": 3,
+                "xPercentage": 15,
+                "moveAngle": 109,
+                "yPercentage": 15
+            },
+            {
+                "type": 0,
+                "id": 4,
+                "xPercentage": 26,
+                "moveAngle": 354,
+                "yPercentage": 9
+            },
+            {
+                "type": 0,
+                "id": 5,
+                "xPercentage": 11,
+                "moveAngle": 274,
+                "yPercentage": 19
+            },
+            {
+                "type": 0,
+                "id": 6,
+                "xPercentage": 59,
+                "moveAngle": 126,
+                "yPercentage": 86
+            },
+            {
+                "type": 0,
+                "id": 7,
+                "xPercentage": 54,
+                "moveAngle": 95,
+                "yPercentage": 37
+            },
+            {
+                "type": 0,
+                "id": 8,
+                "xPercentage": 44,
+                "moveAngle": 1,
+                "yPercentage": 47
+            },
+            {
+                "type": 0,
+                "id": 9,
+                "xPercentage": 88,
+                "moveAngle": 245,
+                "yPercentage": 65
+            },
+            {
+                "type": 0,
+                "id": 10,
+                "xPercentage": 85,
+                "moveAngle": 351,
+                "yPercentage": 25
+            },
+            {
+                "type": 0,
+                "id": 11,
+                "xPercentage": 37,
+                "moveAngle": 289,
+                "yPercentage": 47
+            },
+            {
+                "type": 0,
+                "id": 12,
+                "xPercentage": 75,
+                "moveAngle": 210,
+                "yPercentage": 53
+            }
+        ]
     }
 ]
