@@ -1,0 +1,9 @@
+{
+    "LatestVersion": "0.8.10",
+    "UpdateText": "Er is een nieuwe versie beschikbaar op www.popthedots.com/app/.",
+    "UpdateUrl": "https://www.popthedots.com/app",
+    "UpdateRequired": true,
+    "ApplicationDisabled": false,
+    "DisabledReason": "Er is een nieuwe versie beschikbaar op www.popthedots.com/app/",
+    "ShowUpdateOncePerVersion": false
+}
